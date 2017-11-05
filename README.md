@@ -6,12 +6,10 @@ Jupyter notebook files of challenge questions for GWC participants. Content foll
 1) Download .ipynb file to your computer
 2) Identify the path to your file (e.g. /GWC/Desktop/test.ipynb)
 3) Open the Terminal application 
-4) Type
+4) Type the command below and press enter
 ```
 jupyter notebook <path_to_file.ipynb>
 ```
-and hit enter
-
 5) The file should open in a web browser
 
 ### Via the Web
