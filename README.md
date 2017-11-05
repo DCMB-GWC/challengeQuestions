@@ -8,7 +8,7 @@ Jupyter notebook files of challenge questions for GWC participants. Content foll
 3) Open the Terminal application 
 4) Type the command below and press enter
 ```
-jupyter notebook <path_to_file.ipynb>
+jupyter notebook <path/to/file.ipynb>
 ```
 5) The file should open in a web browser
 
