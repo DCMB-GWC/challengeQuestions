@@ -16,3 +16,13 @@ Jupyter notebook files of challenge questions for GWC participants
 3) Click the upload button and upload the .ipynb (you have to click upload button when it turns blue)
 4) Click on file name in the list of files and your notebook will open
 
+## Introduction to Python Challenge Questions
+### Basics 
+1) Basics_and_Lists_Challenge_Question_1.ipynb: practice declaring variables, accessing items in a list and printing messages to the screen by creating your own Mad Lib
+2) Basics_and_Lists_Challenge_Question_2.ipynb: practice accessing items in a list, type casting, and simple mathematical calculations by calculating how the price of a car depreciates over time
+3) Basics_and_Lists_Challenge_Question_3.ipynb: practice declaring variables, accessing items in a list and printing messages to the screen by spelling your name with a list of lists 
+4) Basics_and_Lists_Challenge_Question_4.ipynb: practice selecting and subetting a list, and changing elements in a list by preparing a meal prep menu. Preview functions and packages by using matplotlib to visualize results
+
+### Functions
+1) matplotlib_challenge_problems.ipynb: practice using matplotlib to visualize college degrees awarded in different fields
+2) Functions+Methods+Packages+Numpy_ChallengeProblem.ipynb: Understand why numpy arrays are fast and efficient and practice using functions, methods, and packages
