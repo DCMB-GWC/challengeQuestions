@@ -32,3 +32,5 @@ Jupyter notebook files of challenge questions for GWC participants. Content foll
 
 ### Dictionaries and Pandas
 1) Coming soon
+
+Challenge questions made by Stephanie Thiede, Rucheng Diao, Zena Lapp, and Marlena Duda of the University of Michigan.
