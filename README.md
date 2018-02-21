@@ -34,6 +34,18 @@ jupyter notebook <path/to/file.ipynb>
 1) matplotlib_challenge_problems.ipynb: practice using matplotlib to visualize college degrees awarded in different fields
 
 ### Dictionaries and Pandas
-1) Coming soon
+Coming soon
+
+### Putting it all together
+1) example_script_CQ.py: practice with user defined functions, data types, scripting
+```
+#open a terminal window and cd to directory with this file
+#open this file in a text editor
+emacs -nw example_script_CQ.py
+
+#using the arrows navigate around and make changes, answer questions
+#to test the script 
+python example_script_CQ.py
+```
 
 
