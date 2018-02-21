@@ -43,7 +43,7 @@ Coming soon
 #open this file in a text editor
 emacs -nw example_script_CQ.py
 
-#using the arrows navigate around and make changes, answer questions
+#using keyboard arrows to navigate around and make changes, answer challenge questions
 #to test the script 
 python example_script_CQ.py
 ```
