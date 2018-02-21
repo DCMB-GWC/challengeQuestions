@@ -13,7 +13,7 @@ def print_warning(argument1):
 #the syntax includes a colon and indentation in following lines
 #the key word def tells python what follows is a user defined function
 def my_function(argument1,argument2):
-	argument1=+1
+	argument1+=1
 	print_warning(argument2) #call new function
 	argument2.append("!")
 	return (argument1,argument2)
@@ -55,3 +55,5 @@ if __name__ == "__main__":
 #save_output[1] indexes into a tuple to select the list 
 #" ".join joins the strings in that list with spaces to print what will look like a sentence
 
+#7. What will save_output[0] be equal to?
+#3
