@@ -1,5 +1,5 @@
 # challengeQuestions
-Jupyter notebook files of challenge questions for GWC participants. Content follows DataCamp's Introduction to Python for Data Science and Intermediate Python for Data Science. Challenge questions made by Stephanie Thiede, Rucheng Diao, Zena Lapp, Brooke Wolford, and Marlena Duda of the University of Michigan. [Solutions to select challenge questions](./solutions//)
+Jupyter notebook files of challenge questions for GWC participants. Content follows DataCamp's Introduction to Python for Data Science and Intermediate Python for Data Science. Challenge questions made by Stephanie Thiede, Rucheng Diao, Zena Lapp, Brooke Wolford, and Marlena Duda of the University of Michigan. [Solutions to select challenge questions.](./solutions//)
 
 ## Instructions for use:
 ### Via Terminal
