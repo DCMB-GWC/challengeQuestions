@@ -13,14 +13,15 @@ def my_function(argument1,argument2):
 	return (argument1,argument2)
 
 #order matters! define functions in the script before the main function
-#main function
+#define main function
 def main():
 	variable1 = 2
 	variable2 = ["i","love","girls","who","code"]
   	save_output = my_function(variable1,variable2)
   	print(" ".join(save_output[1]))
 
-#call main
+#call main function
+#this is a smart programming practice but complicated, read more here: https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/
 if __name__ == "__main__":
   main()
 
