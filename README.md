@@ -36,7 +36,7 @@ jupyter notebook <path/to/file.ipynb>
 ### Dictionaries and Pandas
 Coming soon
 
-### Putting it all together
+## Putting it all together
 1) example_script_CQ.py: practice with user defined functions, data types, scripting
 ```
 #open a terminal window and cd to directory with this file
