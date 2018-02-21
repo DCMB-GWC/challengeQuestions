@@ -8,7 +8,7 @@
 #the syntax includes a colon and indentation in following lines
 #the key word def tells python what follows is a user defined function
 def my_function(argument1,argument2):
-	argument1=+1
+	argument1+=1
 	argument2.append("!")
 	return (argument1,argument2)
 
