@@ -36,3 +36,4 @@ if __name__ == "__main__":
 #It should be called within my_function
 #Hint: This function takes argument2 as input, but has no output
 #6. What does line 21 do?
+#7. What will save_output[0] be equal to?
