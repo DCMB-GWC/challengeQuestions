@@ -3,8 +3,8 @@
 #executing python3 script.py on command line does the equivalent
 
 #new function that checks if input is a list and prints a warning if it is not
-def print_warning(argument1):
-	if type(argument1)!=list:
+def print_warning(arg):
+	if type(arg)!=list:
 		print("This is not a list")
 	return 0
 
