@@ -43,7 +43,7 @@ if __name__ == "__main__":
 #strings
 
 #4. What will print to the command line at the end of this script?
-#"i love girls who code!"
+#"i love girls who code !"
 
 #5. Write a function called print_warning
 #The function should print a warning to the terminal saying "This is not a list"
