@@ -1,11 +1,15 @@
 # challengeQuestions
+
+[![build](https://github.com/GWC-DCMB/challengeQuestions/workflows/build/badge.svg)](https://github.com/GWC-DCMB/challengeQuestions/actions)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+
 Challenge questions for GWC participants. Jupyter notebook file content follows DataCamp's Introduction to Python for Data Science and Intermediate Python for Data Science. Challenge questions made by Stephanie Thiede, Rucheng Diao, Zena Lapp, Brooke Wolford, and Marlena Duda of the University of Michigan. [Solutions to select challenge questions.](./solutions//)
 
 ## Instructions for use:
 ### Via Terminal
 1) Download .ipynb file to your computer
 2) Identify the path to your file (e.g. /GWC/Desktop/test.ipynb)
-3) Open the Terminal application 
+3) Open the Terminal application
 4) Type the command below and press enter
 ```
 jupyter notebook <path/to/file.ipynb>
@@ -23,7 +27,7 @@ jupyter notebook <path/to/file.ipynb>
 ### Basics and Lists
 1) Basics_and_Lists_Challenge_Question_1.ipynb: practice declaring variables, accessing items in a list and printing messages to the screen by creating your own Mad Lib
 2) Basics_and_Lists_Challenge_Question_2.ipynb: practice accessing items in a list, type casting, and simple mathematical calculations by calculating how the price of a car depreciates over time
-3) Basics_and_Lists_Challenge_Question_3.ipynb: practice declaring variables, accessing items in a list and printing messages to the screen by spelling your name with a list of lists 
+3) Basics_and_Lists_Challenge_Question_3.ipynb: practice declaring variables, accessing items in a list and printing messages to the screen by spelling your name with a list of lists
 4) Basics_and_Lists_Challenge_Question_4.ipynb: practice selecting and subetting a list, and changing elements in a list by preparing a meal prep menu. Preview functions and packages by using matplotlib to visualize results
 
 ### Functions and Packages and NumPy
@@ -44,6 +48,6 @@ Coming soon
 emacs -nw example_script_CQ.py
 
 #using keyboard arrows to navigate around and make changes, answer challenge questions
-#to test the script 
+#to test the script
 python example_script_CQ.py
 ```
