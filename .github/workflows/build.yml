@@ -5,7 +5,7 @@ on:
     branches:
     - master
     paths:
-    - ./*.ipynb
+    - questions/*.ipynb
     - solutions/*.ipynb
 
 jobs:
@@ -34,7 +34,7 @@ jobs:
         git config --local user.name "GitHub Action"
     - name: Clean colab metadata
       run: |
-        python .github/clean_colab_metadata.py *.ipynb solutions/*.ipynb
+        python .github/clean_colab_metadata.py questions/*.ipynb solutions/*.ipynb
         git add .
         git commit -m "🧹 Clean colab metadata" || echo "No changes to commit"
     - name: Compile PDFs
